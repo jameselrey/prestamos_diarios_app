@@ -1,0 +1,1 @@
+// Aquí irá el código completo de la app React con todas las funciones mencionadas.
